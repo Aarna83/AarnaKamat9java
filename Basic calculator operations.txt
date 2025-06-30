@@ -1,0 +1,15 @@
+class Main {
+    public static void main(String[] args) {
+       double a=5.552;
+       double b=640;
+       System.out.println(a+b);
+       System.out.println("The sum is "+(a+b));
+       System.out.println("The difference is "+(a-b));
+       System.out.println("The product is "+(a*b));
+       if(b==0)
+       {System.out.println("Cannot divide by 0");
+           
+       }else
+       {System.out.println("The result is "+(a/b));
+           
+       }
