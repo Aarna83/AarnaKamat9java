@@ -13,3 +13,6 @@ class Main {
        {System.out.println("The result is "+(a/b));
            
        }
+      // System.out.println("The  result is "+(a/b));
+   }
+}
