@@ -1,0 +1,18 @@
+class Main {
+    public static void main(String[] args) {
+        double length= 25;
+        double breadth= 30;
+        System.out.println("The area of a rectangle is " +(length*breadth));
+        double side = 50;
+        System.out.println("the area of the square is "+(side*side));
+        double radius = 25;
+        System.out.println("the radius of the circle is " +(3.14*radius*radius));
+        double length1=20;
+        double breadth1=10;
+        double height=30;
+        System.out.println("The volume of a cube is "+(length1*breadth1*height));
+        System.out.println("The area of a cylinder is "+(2*3.14*radius*height+2*3.14*radius*radius));
+        
+        
+    }
+}
