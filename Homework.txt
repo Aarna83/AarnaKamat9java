@@ -1,0 +1,11 @@
+class Main {
+    public static void main(String[] args) {
+      int dollar= 85;
+      System.out.println("8 dollars equals to how many rupees?");
+      System.out.println("8 dollars equals to "+ (8*dollar));
+      System.out.println("What is a volume of a sphere?");
+      int radius= 25;
+      System.out.println("The volume of the sphere is "+(4/3*3.14*radius*radius*radius));
+      
+    }
+}
